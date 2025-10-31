@@ -14,7 +14,6 @@ public class JumlahKuadrat {
                     deret += " + ";
                 }
             }
-
             System.out.println("n = " + n + " => jumlah kuadrat = " + deret + " = " + jumlah);
         }
     }
