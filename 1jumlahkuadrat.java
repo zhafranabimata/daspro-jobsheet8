@@ -1,4 +1,4 @@
-public class 1JumlahKuadrat {
+public class 1jumlahkuadrat {
     public static void main(String[] args) {
         
         for (int n = 1; n <= 5; n++) {
