@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Kotak {
+public class 2Kotak {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Masukkan nilai N (NILAI MINIMAL 3) = "); 

@@ -1,4 +1,4 @@
-public class JumlahKuadrat {
+public class 1JumlahKuadrat {
     public static void main(String[] args) {
         
         for (int n = 1; n <= 5; n++) {
