@@ -1,4 +1,4 @@
-package dasprojobsheet7;
+
 import java.util.Scanner;
 
 public class Square29 {

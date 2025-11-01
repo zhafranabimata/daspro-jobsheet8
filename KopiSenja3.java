@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 3KopiSenja {
+public class KopiSenja3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

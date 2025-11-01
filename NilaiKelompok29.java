@@ -1,4 +1,3 @@
-package dasprojobsheet7;
 import java.util.Scanner;
 public class NilaiKelompok29 {
     public static void main(String[] args) {
